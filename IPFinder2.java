@@ -1,6 +1,7 @@
 import java.util.*;
 import java.net.*;
 
+//public static InetAddress getLocalHost() --> Host name & IP Address.
 public class IPFinder2 {
     public static void main(String[] args) {
         InetAddress address;
