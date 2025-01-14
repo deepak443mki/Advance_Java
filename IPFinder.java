@@ -1,6 +1,7 @@
 import java.net.*;
 import java.util.*;
 
+//public static InetAddress getByName(Host_name) --> Host name & IP Address.
 public class IPFinder {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
